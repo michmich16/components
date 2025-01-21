@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-     <CustomButton>click me</CustomButton>
+     <CustomButton >click me</CustomButton>
     </>
   )
 }
